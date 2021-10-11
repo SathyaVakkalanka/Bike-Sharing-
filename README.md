@@ -23,3 +23,8 @@ count - number of total rentals
 * Loading the data
 * Renaming Column names
 * Getting an understanding of the data
+* Visualizing the data
+
+# Building Initial Model 
+
+
