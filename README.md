@@ -37,7 +37,10 @@ count - number of total rentals
 
 * Comparing testing RMSE with null RMSE 
 
-# Creating Features
+# Feature Engineering
 
-* Handling Categorical Features by creating Dummy Variable
-* Feature Engineering
+* Creating new features where Hour of the day is created as a feature
+* Creating Dummy Variable where Hour is converted to a catogorical Feature
+* Creating another feature for Day Time to know active & Passive hours
+
+
