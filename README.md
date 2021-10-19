@@ -25,6 +25,19 @@ count - number of total rentals
 * Getting an understanding of the data
 * Visualizing the data
 
-# Building Initial Model 
+# Building a Basic Model  to do the prediction of Bike rentals
 
+# Working with Multiple Features
 
+* Visualizing the data
+* Working with multiple features
+* Adding more features to Basic model
+
+# Comparing models with train/test split and RMSE
+
+* Comparing testing RMSE with null RMSE 
+
+# Creating Features
+
+* Handling Categorical Features by creating Dummy Variable
+* Feature Engineering
